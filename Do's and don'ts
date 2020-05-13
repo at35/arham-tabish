@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+<title>
+do's and don'ts
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+p{
+ font-size:20px;
+ color:white;
+}
+h1{
+ text-align:center;
+ color:white;
+ background-color:skyblue;
+ margin:0;
+ padding:5px;
+}
+h2{
+ text-align:center;
+ color:white;
+ margin:0;
+ padding:5px;
+}
+body{
+ background-color:#333333;
+}
+div{
+ color:white;
+ font-size:30px;
+ margin:0; 
+ padding:0px;
+ text-decoration:none;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color:white;
+}
+
+td, th {
+  color:white;
+  width:50%;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #999999;
+}
+tr:nth-child(odd) {
+  background-color: #444444;
+}
+
+li{
+ color:white;
+ font-size:20px;
+}
+hr{
+ color:white;
+}
+</style>
+</head>
+<body>
+<h1><strong>Do's and Don'ts</strong> for CORONA Virus</h1>
+<hr>
+<div>
+<h2>CORONA Virus</h2>
+</div>
+<table caption="Do's and Don'ts for Everyone:">
+ <tr>
+  <th>Do's</th>
+  <th>Don'ts</th>  
+ </tr>
+   <tr>
+      <td>DO get ready to hunker down. The World Health Organization has declared COVID-19 to be a pandemic. If someone in your home gets sick, local authorities may want you to be quarantined for up to 14 days. Make sure you have enough shelf-stable food to last that long, as well as prescription medications for anyone in the family, other health supplies such as over-the-counter pain relievers, and disinfectants to clean household surfaces.</td>
+      <td>DON’T wear a mask unless you’re sick. Masks help protect others from catching the virus, but wearing one when you’re healthy won’t do much. Demand has been so high in the U.S. that health care workeres are improvising. Leave the masks for people who really need them, like the sick or health care professionals.</td>
+   </tr>
+   <tr> 
+      <td>DO reconsider travel to affected areas of the U.S., especially if you have underlying conditions. And if you live in an area with widespread COVID-19, you should probably stay put -- you may be carrying the virus yourself. If you're thinking about leaving the country, know that the CDC advises against non-essential travel to most of Europe, the UK and Ireland, China and Iran. For people in a higher-risk group -- seniors and people with preexisting conditions -- the agency suggests postponing all nonessential travel. It also suggests everyone avoid cruises.</td>
+      <td>DON’T avoid toys or products from Asia. Although the virus can live on surfaces for hours and possibly several days, it’s unlikely to survive the process of being moved from place to place in different temperatures and conditions.</td>
+   </tr>
+   <tr>  
+      <td>DO practice “social distancing”: Stay 3- to 6-feet away from other people, especially if they're coughing or sneezing. Avoid gatherings of more than 10 people -- the government has ordered them canceled nationwide anyway -- and crowds in poorly-ventilated spaces.</td>
+      <td>DON’T assume young people won’t get gravely ill or even die. As of March 16, 38% of all hospitalizations were of people 20-to-54 years old.</td>
+   </tr>
+   <tr>
+      <td>DO prioritize your health. Now is not the time to burn the candle at both ends, skip workouts, or ignore a healthy diet—that can weaken your immune system. Take care of your mental health, too -- we're living in stressful times.</td> 
+      <td>DON’T go to the doctor unless it’s urgent. And reschedule your dental cleaning. The CDC is urging all health care professionals to focus on emergency treatments now.</td>
+   </tr>
+   <tr>
+      <td>DO assume you’ve been exposed, if you live in an area with a lot of community transmission. That’s what New Yorkers have been told.</td>
+      <td>DON’T travel if you have a fever. If you get sick on flight, tell crew immediately. When you get home, contact a health professional.</td>
+   </tr>
+   <tr>
+      <td>DO keep taking blood pressure medications. The idea that they may make you more susceptible to the virus is just a theory.</td>
+      <td>DON’T skip the flu shot. The symptoms of COVID-19 and flu overlap enough that it can complicate diagnosis. If you’ve had a flu shot, you’re less likely to catch the flu or have a case serious enough to require treatment.</td>
+   </tr>
+   <tr>
+      <td>DO check in on high-risk neighbors: older adults and people with serious chronic medical conditions. Monitor their food and medical supplies, and make sure they have people or organizations who can help if they get sick. If you suspect you’ve been exposed already, maintain at least 6 feet of distance.</td>
+      <td>DON’T panic. Public health officials still say the risk of becoming infected with COVID-19 is low, but your risk level is likely to rise as the virus spreads across the country. Taking proper precautions -- wash your hands! -- and making preparations are the best things you can do.</td>
+   </tr>    
+</table>
+</body>
+</html>
