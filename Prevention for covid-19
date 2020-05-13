@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<title>
+preventions
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img{
+ width:40%
+}
+pre{
+ font-size:20px;
+ color:white;
+}
+h1{
+ position: fixed; top: 10px; left: 40px;
+ font-size: 40px;
+ text-align:center;
+ color:white;
+ background-color:skyblue;
+ margin:0;
+ padding:5px;
+}
+b{
+ color:yellow;
+}
+body{
+ background-color:#333333;
+}
+hr{
+ color:white;
+}
+</style>
+</head>
+
+<body>
+<br><br><br><br>
+<h1><strong>Preventions</strong> for covid-19</h1>
+<hr>
+<pre>
+<b>Wash your hands frequently</b>
+    Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
+  Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.
+</pre>
+<img src="https://th.bing.com/th/id/OIP.KUayhJRV5Z0ytSDsKlvSmAHaFj?w=261&h=193&c=7&o=5&dpr=1.25&pid=1.7">
+<pre>
+<b>Maintain social distancing</b>
+    Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.
+  Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. 
+  If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.
+</pre>
+<img src="https://image.freepik.com/free-vector/business-office-people-maintain-social-distancing-stop-covid-19-coronavirus_40876-1703.jpg">
+<pre>      
+<b>Avoid touching eyes, nose and mouth</b>
+  Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth.
+  From there, the virus can enter your body and can make you sick.
+</pre>
+<img style="width:30%" src="https://th.bing.com/th/id/OIP.SKRfV5Choowlkb86EsUNnwAAAA?w=178&h=174&c=7&o=5&dpr=1.25&pid=1.7">
+<pre>   
+<b>Practice respiratory hygiene</b>
+    Make sure you, and the people around you, follow good respiratory hygiene.This means covering your mouth and
+    nose with your bent elbow or tissue when you cough or sneeze.Then dispose of the used tissue immediately.
+  Why? Droplets spread virus.
+  By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19.
+
+
+<b>If you have fever, cough and difficulty breathing, seek medical care early</b>
+    Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance.
+    Follow the directions of your local health authority.
+  Why? National and local authorities will have the most up to date information on the situation in your area.
+  Calling in advance will allow your health care provider to quickly direct you to the right health facility.
+  This will also protect you and help prevent spread of viruses and other infections.
+
+<img src="001_s1.png" id="img-001_s1" alt="Nizo part 1" width="241" height="255" class="ui-draggable" style="top: 0px; left: 0px; transform: rotate(0deg);"> 
+<b>Stay informed and follow advice given by your healthcare provider</b>
+   Stay informed on the latest developments about COVID-19.Follow advice given by your healthcare provider,
+   your national and local public health authority or your employer on how to protect yourself and others from COVID-19.
+  Why? National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area.
+  They are best placed to advise on what people in your area should be doing to protect themselves.
+</pre>
+<img src="https://img.etimg.com/thumb/msid-74452371,width-640,resizemode-4,imgsize-203262/stay-informed-and-follow-the-advice.jpg">
+<hr>
+</table>
+</body>
+</html>
