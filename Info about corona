@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<title>
+information_corona
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img{
+ width:50%; 
+}
+p{
+ font-size:20px;
+ color:white;
+}
+h1{
+ color:white;
+ background-color:#555555;
+ margin:0;
+ padding:5px;
+}
+body{
+ background-color:black;
+}
+div{
+ color:white;
+ font-size:30px;
+ margin:0; 
+ padding:0px;
+ text-decoration:none;
+}
+a{
+ font-size:15px;
+ color:white;
+}
+a:hover{
+ color:#555555;
+}
+</style>
+</head>
+<body>
+<h1><strong>Information</strong> about CORONA Virus</h1>
+<hr style="color:white;">
+<img src="https://d3i6fh83elv35t.cloudfront.net/static/2020/01/RTS301GM-1024x576.jpg">
+<div>
+CORONA Virus
+</div>
+<p>Coronaviruses are a group of related viruses that cause diseases in mammals and birds. In humans, coronaviruses cause respiratory tract infections that can range from mild to lethal. Mild illnesses include some cases of the common cold, while more lethal varieties can cause SARS, MERS, and COVID-19. Symptoms in other species vary: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea. There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.</p>
+<a href="https://en.wikipedia.org/wiki/Coronavirus">for more information about corona virus </a>
+</body>
+</html>
