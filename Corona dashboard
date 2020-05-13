@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{
+background-image:url('images/corona.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+h1{ 
+font-size:60px;
+background-color:rgba(0,0,225,0.7); 
+font-family:cambria;
+padding:1px;
+color:white;
+text-align:center;
+margin:0;
+}
+ul{
+ list-style-type:none;
+ margin:0;
+ padding:0;
+ overflow:hidden;
+ font-size:20px;
+ background-color: #aaaaaa;
+}
+
+li a{
+ display:block;
+ color: white;
+ text-align: center;
+ padding:10px 20px;
+ text-decoration:none;
+}
+li a:hover{
+ background-color: #777777;
+}
+img{
+ background-color:orange;
+ background-size:cover;
+ padding:10px;
+ float:right; 
+ width:40%;
+}
+p{
+background-color:rgba(0,0,225,0.2);
+color:white; 
+font-family:calibri; 
+float:down; 
+}
+</style>
+<title>CORONA Dashboard</title>
+</head>
+
+<body>
+<h1><strong>CORONA Dashboard</strong></h1>
+<hr style="height:1px">
+<ul>
+<li style="float:left;" title="info about the virus"><a href="information.htm">info</a></li>
+<li style="float:left;"><a href="symtoms.htm">symtoms</a></li>
+<li style="float:left;"><a href="do_and_dont.htm">do's and dont's</a></li>
+<li style="float:left;" title="preventive measures adopted till now"><a href="preventions.htm">preventions</a></li>
+</ul>
+<address style="font-size:20px; text-align:center; padding:10px;">
+<p><strong>  Helpline Number :+91-11-23978046<br>  Toll Free : 1075 <br>  Helpline Email ID : ncov2019@gov.in <br>  Arogya Setu App.</strong></p> 
+</address>
+</body>
+</html>
