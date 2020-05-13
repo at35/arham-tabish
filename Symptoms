@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+<title>
+symtoms
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+p{
+ font-size:20px;
+ color:white;
+}
+h1{
+ color:lightblue;
+ font-size:50px;
+ background-color:#555555;
+ margin:0;
+ padding:5px;
+}
+h2{
+ color:tomato;
+}
+body{
+ background-color:#222222;
+}
+div{
+ color:red;
+ font-size:30px;
+ margin:0; 
+ padding:0px;
+ text-decoration:none;
+}
+li{
+ color:white;
+ font-size:20px;
+}
+hr{
+ color:white;
+}
+</style>
+</head>
+<body>
+<h1><strong>Symtoms</strong> of CORONA Virus</h1>
+<hr>
+<img src="https://www.mygov.in/sites/all/themes/mygov/images/covid/symptoms.png" style="width:50%">
+<hr>
+<div>
+<em><b>CORONA Virus</b></em>
+</div>
+<h2><b>Commom symtoms</b></h2>
+<p>According to information gathered from researchers in China, the most comon symptoms among people who had COVID-19 include:</p>
+<ul>
+ <li>Fever 83%-99%</li> 
+ <li>Cough 59%-82%</li>
+ <li>Fatigue 44%-70%</li>
+ <li>Lack of appetite 40%-84%</li>
+ <li>Shortness of breath 31%-40%</li>
+ <li>Mucus/phlegm 28%-33%</li>
+ <li>Body aches 11%-35%</li>
+</ul>
+<p>Symptoms usually begin 2 to 14 days after you come into contact with the virus.<br>Other symptoms may include:</p>
+<ul>
+ <li>Sore throat</li>
+ <li>Headache</li>
+ <li>Chills</li>
+ <li>Stuffy nose</li>
+ <li>Nausea or vomiting</li>
+ <li>Diarrhea</li>
+</ul>
+<p>If you have any of these symptoms, isolate yourself. This means staying away from other people as much as possible, even members of your family. Stay in a specific “sick room,” and use a separate bathroom if you can. If you have symptoms and are at high risk of complications because of your age or other health conditions, call your doctor in addition to isolating yourself.</p>
+<hr>
+<h2><b>Serious symtoms</b></h2>
+<p>Call a doctor or hospital right away if you have one or more of these COVID-19 symptoms:</p>
+<ul>
+ <li>Trouble breathing</li>
+ <li>Constant pain or pressure in your chest</li>
+ <li>Bluish lips or face</li>
+ <li>Sudden confusion</li>
+</ul>
+<p>You need medical care as soon as possible. Call your doctor’s office or hospital before you go in. This will help them prepare to treat you and protect medical staff and other patients.</p>
+<hr>
+</body>
+</html>
